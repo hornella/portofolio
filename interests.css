@@ -6,3 +6,8 @@ h2{
 .city{
   color: red;
 }
+
+.skills{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
